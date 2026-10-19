@@ -1,0 +1,12 @@
+pandas
+nltk
+textblob
+transformers
+torch
+scikit-learn
+gensim
+wordcloud
+matplotlib
+seaborn
+plotly
+jupyter
